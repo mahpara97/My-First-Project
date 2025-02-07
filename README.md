@@ -1,5 +1,5 @@
 # My-First-Project
-Interns Data Script
+- **Interns Data Script**
 Description
 This simple R script creates a list of interns' details, including their names, Slack usernames, emails, hobbies, country of origin, academic disciplines, and preferred programming languages. It then converts this list into a data frame and prints it to the console.
 
